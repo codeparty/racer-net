@@ -1,0 +1,22 @@
+{
+  "name": "racer-net",
+  "version": "0.0.0",
+  "description": "Create racer models over a node.js net connection",
+  "main": "index.js",
+  "dependencies": {
+    "emit-stream": "*",
+    "JSONStream": "*"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lever/racer-net.git"
+  },
+  "author": "Brian Noguchi <brian.noguchi@gmail.com>",
+  "license": "MIT"
+}

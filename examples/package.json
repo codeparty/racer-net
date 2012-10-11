@@ -1,0 +1,17 @@
+{
+  "name": "racer-net-example",
+  "version": "0.0.0",
+  "description": "Example for racer-net",
+  "main": "server.js",
+  "dependencies": {
+    "derby": "*",
+    "racer-net": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
