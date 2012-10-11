@@ -1,6 +1,7 @@
 {
   "name": "racer-net",
   "version": "0.0.0",
+  "private": true,
   "description": "Create racer models over a node.js net connection",
   "main": "index.js",
   "dependencies": {
