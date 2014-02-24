@@ -1,10 +1,14 @@
 racer-net
 =========
 
-Create racer models over a node.js net connection
+## Do not use for new projects
+
+This project was intended for use with Racer 0.3, before Racer had multi-process support. The current version of Racer built on top of ShareJS works across multiple servers out of the box. There is no need for this project any more.
 
 
 ## Usage:
+
+Create racer models over a node.js net connection
 
 On the server...
 
